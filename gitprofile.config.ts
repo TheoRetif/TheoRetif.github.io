@@ -53,7 +53,7 @@ const CONFIG = {
   },
   seo: { title: 'Theo Retif website', description: '', imageURL: '' },
   social: {
-    linkedin: 'theo-retif',
+    linkedin: 'theoretif',
     email: 'firstname.lastname@gmail.com',
   },
   resume: {
